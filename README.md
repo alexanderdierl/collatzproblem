@@ -1,0 +1,2 @@
+# collatzproblem
+calculating collatz
